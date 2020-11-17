@@ -1,217 +1,88 @@
-[
-  {
-    "_id": "5fb382d74bfcfdd47e38f303",
-    "index": 0,
-    "guid": "8d381a05-871c-4644-893e-ca6fa2471990",
-    "isActive": true,
-    "balance": "$1,563.28",
-    "picture": "http://placehold.it/32x32",
-    "age": 36,
-    "eyeColor": "brown",
-    "name": "Fanny Caldwell",
-    "gender": "female",
-    "company": "BRAINCLIP",
-    "email": "fannycaldwell@brainclip.com",
-    "phone": "+1 (943) 559-3466",
-    "registered": "2016-07-25T05:53:55 -07:00",
-    "latitude": -48.672399,
-    "longitude": -85.462598,
-    "tags": [
-      "laboris",
-      "consectetur",
-      "esse",
-      "qui",
-      "minim",
-      "nisi",
-      "dolore"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Mays Potter"
-      },
-      {
-        "id": 1,
-        "name": "Burgess Powers"
-      },
-      {
-        "id": 2,
-        "name": "Frances Miranda"
-      }
-    ],
-    "greeting": "Hello, Fanny Caldwell! You have 6 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5fb382d754f0765ed37124c1",
-    "index": 1,
-    "guid": "00792992-5b78-48a5-9a2f-b8c2b754fac3",
-    "isActive": false,
-    "balance": "$2,122.60",
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "eyeColor": "blue",
-    "name": "Carissa Bates",
-    "gender": "female",
-    "company": "LOVEPAD",
-    "email": "carissabates@lovepad.com",
-    "phone": "+1 (968) 481-2170",
-    "registered": "2016-12-29T04:26:03 -07:00",
-    "latitude": 39.319592,
-    "longitude": -53.522966,
-    "tags": [
-      "velit",
-      "sunt",
-      "laboris",
-      "in",
-      "cillum",
-      "et",
-      "eiusmod"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Alba Burch"
-      },
-      {
-        "id": 1,
-        "name": "Millicent Dickerson"
-      },
-      {
-        "id": 2,
-        "name": "Eddie Mays"
-      }
-    ],
-    "greeting": "Hello, Carissa Bates! You have 1 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5fb382d79b0356f8327a4af6",
-    "index": 2,
-    "guid": "53f41ddb-820a-4613-b48f-f725ac6763d0",
-    "isActive": false,
-    "balance": "$2,334.71",
-    "picture": "http://placehold.it/32x32",
-    "age": 30,
-    "eyeColor": "brown",
-    "name": "Jolene Jefferson",
-    "gender": "female",
-    "company": "IMPERIUM",
-    "email": "jolenejefferson@imperium.com",
-    "phone": "+1 (909) 424-2185",
-    "registered": "2016-10-18T05:56:12 -07:00",
-    "latitude": 81.013797,
-    "longitude": -168.217569,
-    "tags": [
-      "voluptate",
-      "incididunt",
-      "enim",
-      "consectetur",
-      "proident",
-      "laboris",
-      "ut"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Ortega Wallace"
-      },
-      {
-        "id": 1,
-        "name": "Molly Mayer"
-      },
-      {
-        "id": 2,
-        "name": "Keisha Woodward"
-      }
-    ],
-    "greeting": "Hello, Jolene Jefferson! You have 9 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5fb382d783ce1b91c98e58aa",
-    "index": 3,
-    "guid": "55ec559a-baf3-44d0-ba5c-c10ba090933a",
-    "isActive": false,
-    "balance": "$1,383.56",
-    "picture": "http://placehold.it/32x32",
-    "age": 39,
-    "eyeColor": "green",
-    "name": "Elba Ford",
-    "gender": "female",
-    "company": "TOURMANIA",
-    "email": "elbaford@tourmania.com",
-    "phone": "+1 (905) 489-2933",
-    "registered": "2014-01-09T05:55:51 -07:00",
-    "latitude": -84.066773,
-    "longitude": -158.943587,
-    "tags": [
-      "est",
-      "est",
-      "proident",
-      "ad",
-      "irure",
-      "excepteur",
-      "culpa"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Hernandez Doyle"
-      },
-      {
-        "id": 1,
-        "name": "Pittman Mercado"
-      },
-      {
-        "id": 2,
-        "name": "Vaughan Brewer"
-      }
-    ],
-    "greeting": "Hello, Elba Ford! You have 9 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5fb382d7cc539551be596c97",
-    "index": 4,
-    "guid": "57e5becd-245c-495c-a09f-17c44cf11b80",
-    "isActive": true,
-    "balance": "$3,701.95",
-    "picture": "http://placehold.it/32x32",
-    "age": 24,
-    "eyeColor": "brown",
-    "name": "Frankie Mcintyre",
-    "gender": "female",
-    "company": "MOREGANIC",
-    "email": "frankiemcintyre@moreganic.com",
-    "phone": "+1 (921) 530-2611",
-    "registered": "2017-10-03T03:19:09 -07:00",
-    "latitude": 76.119422,
-    "longitude": 168.531328,
-    "tags": [
-      "esse",
-      "anim",
-      "labore",
-      "nostrud",
-      "duis",
-      "consequat",
-      "eiusmod"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Reva Valentine"
-      },
-      {
-        "id": 1,
-        "name": "Mcfadden Alexander"
-      },
-      {
-        "id": 2,
-        "name": "Blevins Maldonado"
-      }
-    ],
-    "greeting": "Hello, Frankie Mcintyre! You have 5 unread messages.",
-    "favoriteFruit": "strawberry"
-  }
-]
+{
+  "users": [
+    {
+      "_id": "5fb3847d7ee4607cd965e7ac",
+      "index": 0,
+      "guid": "8b95d318-ccc8-4529-bfc1-a95507e5a82b",
+      "isActive": true,
+      "balance": "$2,561.94",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "blue",
+      "name": "Young Bernard",
+      "gender": "female",
+      "company": "ENDIPINE",
+      "email": "youngbernard@endipine.com"
+    },
+    {
+      "_id": "5fb3847dac4db51da3c44cbf",
+      "index": 1,
+      "guid": "75b5b7ed-31f6-483c-a563-1a89c039dc9f",
+      "isActive": false,
+      "balance": "$1,919.10",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "green",
+      "name": "Colette Jordan",
+      "gender": "female",
+      "company": "ZILLAN",
+      "email": "colettejordan@zillan.com"
+    },
+    {
+      "_id": "5fb3847ddfa657909f351743",
+      "index": 2,
+      "guid": "646d9e00-0949-425e-b9fd-d160ddce7046",
+      "isActive": true,
+      "balance": "$2,207.49",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Leticia Ellison",
+      "gender": "female",
+      "company": "INSURESYS",
+      "email": "leticiaellison@insuresys.com"
+    },
+    {
+      "_id": "5fb3847d8d30aa850c20cc60",
+      "index": 3,
+      "guid": "68dcdcf8-c28e-4540-ba3d-35370703c9a5",
+      "isActive": false,
+      "balance": "$2,340.34",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "blue",
+      "name": "Candice Lester",
+      "gender": "female",
+      "company": "COLAIRE",
+      "email": "candicelester@colaire.com"
+    },
+    {
+      "_id": "5fb3847d71030080739afd25",
+      "index": 4,
+      "guid": "d61cc83d-c50a-4c02-952b-fb8fcb36edd4",
+      "isActive": true,
+      "balance": "$3,719.97",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "green",
+      "name": "Jan Maxwell",
+      "gender": "female",
+      "company": "TASMANIA",
+      "email": "janmaxwell@tasmania.com"
+    },
+    {
+      "_id": "5fb3847d2971f7bc0c4d7554",
+      "index": 5,
+      "guid": "c176e7e0-6f67-4b83-b80a-3a2f656c994e",
+      "isActive": true,
+      "balance": "$2,273.26",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "blue",
+      "name": "Cotton Salinas",
+      "gender": "male",
+      "company": "PULZE",
+      "email": "cottonsalinas@pulze.com"
+    }
+  ]
+}
